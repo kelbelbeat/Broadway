@@ -13,6 +13,10 @@
 #washedout{
     background-image:url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
+#washedout .header .Home {
+  font-family:Helvetica;
+    background-image:url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
 .main{
   font-family:Helvetica;
   font-size: 32px;
@@ -23,11 +27,7 @@
   font-size: 23px;
   font-weight: bold;
 }
-.Home,
-.Process,
-.Work,
-.Team,
-.Contact {
+.Home {
   Font-family: Helvetica;
   font-size: 18px;
   color:white;
@@ -43,8 +43,8 @@
   font-family: Helvetica;
   font-size:11px;
   color:white;
-  background-color: dimgray;
 }
 #highlight-grey{
   text-align:left;
+  background-color: dimgray;
 }
